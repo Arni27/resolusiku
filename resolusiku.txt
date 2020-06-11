@@ -3,4 +3,4 @@ Resolusi Arni
 - Membuat proyek untuk membantu pasien
 - Pasien dapat menggunakan web kami
 - Menjadi web developer
-- Menjalin banyak relasi
+- Sukses dengan proyek yang dijalankan
